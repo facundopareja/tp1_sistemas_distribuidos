@@ -1,0 +1,16 @@
+{'startingAirport': 'DFW', 'price_mode': [['252.09', 3628]]}
+{'startingAirport': 'IAD', 'price_mode': [['252.09', 1126]]}
+{'startingAirport': 'OAK', 'price_mode': [['472.56', 646]]}
+{'startingAirport': 'DTW', 'price_mode': [['171.16', 1841]]}
+{'startingAirport': 'ATL', 'price_mode': [['124.65', 1923]]}
+{'startingAirport': 'EWR', 'price_mode': [['133.95', 1731]]}
+{'startingAirport': 'MIA', 'price_mode': [['273.49', 1679]]}
+{'startingAirport': 'JFK', 'price_mode': [['472.56', 1241]]}
+{'startingAirport': 'LGA', 'price_mode': [['124.65', 3784]]}
+{'startingAirport': 'PHL', 'price_mode': [['305.12', 1928]]}
+{'startingAirport': 'ORD', 'price_mode': [['146.98', 3902]]}
+{'startingAirport': 'CLT', 'price_mode': [['146.98', 2929]]}
+{'startingAirport': 'BOS', 'price_mode': [['78.14', 2328]]}
+{'startingAirport': 'SFO', 'price_mode': [['459.53', 1652]]}
+{'startingAirport': 'LAX', 'price_mode': [['305.12', 3458]]}
+{'startingAirport': 'DEN', 'price_mode': [['202.79', 2028]]}
